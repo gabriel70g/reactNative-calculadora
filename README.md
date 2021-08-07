@@ -8,18 +8,18 @@ or
 ```
 npm i
 ```
-## start metro emulator
-
+## start metro
+Responsible for the compilation, installation and livereload of emulators
 ``` 
 npm run start
 ```
 
-## start android
+## start android emulator
 ``` 
-npm run android
+npm run android 
 ```
 
-## start ios
+## start ios emulator
 ``` 
 npm run ios
 ```
