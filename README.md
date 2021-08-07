@@ -1,6 +1,6 @@
 # reactNative-calculadora
 
-## install npm packets
+## install npm packages
 ``` 
 npm install
 ```
