@@ -23,3 +23,4 @@ npm run android
 ``` 
 npm run ios
 ```
+[![App Image](./src/assets/calculadora.png)](App Image)
