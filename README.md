@@ -1,21 +1,25 @@
 # reactNative-calculadora
 
-#install npm packets
+## install npm packets
 ``` 
-npm install  or npm i
+npm install
+``
+or
+``
+npm i
 ```
-start metro emulator
+## start metro emulator
 
 ``` 
 npm run start
 ```
 
-start android
+## start android
 ``` 
 npm run android
 ```
 
-start ios
+## start ios
 ``` 
 npm run ios
 ```
