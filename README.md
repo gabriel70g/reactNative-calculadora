@@ -3,9 +3,9 @@
 ## install npm packets
 ``` 
 npm install
-``
+```
 or
-``
+```
 npm i
 ```
 ## start metro emulator
